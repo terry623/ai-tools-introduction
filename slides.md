@@ -37,12 +37,16 @@ AI-powered coding tools to supercharge your development workflow
 <div class="grid grid-cols-2 gap-4">
 <div>
 
-Continue is the leading open-source AI code assistant inside VSCode and JetBrains, featuring:
+[Continue](https://docs.continue.dev/) is the leading open-source AI code assistant inside VSCode and JetBrains, featuring:
 
 - Chat - understand and iterate on code in sidebar
 - Autocomplete - receive inline code suggestions
 - Edit - modify code without leaving current file
 - Actions - establish shortcuts for common use cases
+
+<br />
+
+> 搭配 [Cline](https://docs.cline.bot/) Extension 可實現媲美 [Cursor](https://www.cursor.com/cn) Editor 的功能體驗
 
 </div>
 <div class="flex items-center justify-center">
