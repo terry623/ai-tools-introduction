@@ -32,6 +32,26 @@ AI-powered coding tools to supercharge your development workflow
 
 ---
 
+# 什麼是 Continue ?
+
+<div class="grid grid-cols-2 gap-4">
+<div>
+
+Continue is the leading open-source AI code assistant inside VSCode and JetBrains, featuring:
+
+- Chat - understand and iterate on code in sidebar
+- Autocomplete - receive inline code suggestions
+- Edit - modify code without leaving current file
+- Actions - establish shortcuts for common use cases
+
+</div>
+<div class="flex items-center justify-center">
+  <img src="/images/intro.png" class="rounded shadow-xl" />
+</div>
+</div>
+
+---
+
 # 達哥 vs Continue
 
 <div class="grid grid-cols-2 gap-4">
@@ -52,26 +72,6 @@ AI-powered coding tools to supercharge your development workflow
 - 即時編輯與建議，無需切換窗口
 - 專為開發者工作流程優化
 
-</div>
-</div>
-
----
-
-# 什麼是 Continue ?
-
-<div class="grid grid-cols-2 gap-4">
-<div>
-
-Continue is the leading open-source AI code assistant inside VSCode and JetBrains, featuring:
-
-- Chat - understand and iterate on code in sidebar
-- Autocomplete - receive inline code suggestions
-- Edit - modify code without leaving current file
-- Actions - establish shortcuts for common use cases
-
-</div>
-<div class="flex items-center justify-center">
-  <img src="/images/intro.png" class="rounded shadow-xl" />
 </div>
 </div>
 
