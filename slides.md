@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: "/images/background.jpg"
+background: "https://images.unsplash.com/photo-1620837953336-8274c0623a3c?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 title: 讓你事半功倍的 AI 工具
 class: text-center
 drawings:
